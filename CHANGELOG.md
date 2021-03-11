@@ -1,5 +1,14 @@
 # Changelog
 
+## [1.4.0](https://www.github.com/rsenden/release-please-test/compare/v1.3.0...v1.4.0) (2021-03-11)
+
+
+### Features
+
+* Extra Feature 1 ([eae1f44](https://www.github.com/rsenden/release-please-test/commit/eae1f4475cf8590f154df5c4fcda23788a79d113))
+* Extra feature 2 ([eae1f44](https://www.github.com/rsenden/release-please-test/commit/eae1f4475cf8590f154df5c4fcda23788a79d113))
+* Multiparagraph body ([eae1f44](https://www.github.com/rsenden/release-please-test/commit/eae1f4475cf8590f154df5c4fcda23788a79d113))
+
 ## [1.3.0](https://www.github.com/rsenden/release-please-test/compare/v1.2.0...v1.3.0) (2021-03-11)
 
 
