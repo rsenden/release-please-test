@@ -1,0 +1,20 @@
+on:
+  push:
+    branches:
+      - main
+      
+name: Build production release
+jobs:
+  build-and-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check-out source code
+        uses: actions/checkout@v2
+      
+      - name: Generate and process release PR
+        id: release_please
+        uses: GoogleCloudPlatform/release-please-action@v2
+        with:
+          release-type: simple
+          package-name: ${{ github.event.repository.name }}
+          
