@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.0](https://www.github.com/rsenden/release-please-test/compare/v1.0.0...v1.1.0) (2021-03-11)
+
+
+### Features
+
+* abc ([ffb103e](https://www.github.com/rsenden/release-please-test/commit/ffb103e8404e41833234427bea19cc3784ec0311))
+* Another feature 1 ([cbdd801](https://www.github.com/rsenden/release-please-test/commit/cbdd801492123611eac4a23581ec2c2a4edd3386))
+* Another feature 2 ([cbdd801](https://www.github.com/rsenden/release-please-test/commit/cbdd801492123611eac4a23581ec2c2a4edd3386))
+* Another feature 3 ([cbdd801](https://www.github.com/rsenden/release-please-test/commit/cbdd801492123611eac4a23581ec2c2a4edd3386))
+* def ([ffb103e](https://www.github.com/rsenden/release-please-test/commit/ffb103e8404e41833234427bea19cc3784ec0311))
+* NoBody1 ([bf885d2](https://www.github.com/rsenden/release-please-test/commit/bf885d22377e667e420421864d4048195280ae7c))
+* NoBody2 ([bf885d2](https://www.github.com/rsenden/release-please-test/commit/bf885d22377e667e420421864d4048195280ae7c))
+* Without body ([bf885d2](https://www.github.com/rsenden/release-please-test/commit/bf885d22377e667e420421864d4048195280ae7c))
+
 ## 1.0.0 (2021-03-11)
 
 
