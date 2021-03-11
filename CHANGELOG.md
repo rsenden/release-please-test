@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.3.0](https://www.github.com/rsenden/release-please-test/compare/v1.2.0...v1.3.0) (2021-03-11)
+
+
+### Features
+
+* Feature with extra messages ([868873d](https://www.github.com/rsenden/release-please-test/commit/868873d0b39b4545341f09ee76cb70f9cd2d4bd1))
+
 ## [1.2.0](https://www.github.com/rsenden/release-please-test/compare/v1.1.0...v1.2.0) (2021-03-11)
 
 
