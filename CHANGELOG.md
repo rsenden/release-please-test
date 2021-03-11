@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.2.0](https://www.github.com/rsenden/release-please-test/compare/v1.1.0...v1.2.0) (2021-03-11)
+
+
+### Features
+
+* Chore no body ([e056a6a](https://www.github.com/rsenden/release-please-test/commit/e056a6a636ca319c76409e8f1139d440e7461600))
+* Chore no body ([e056a6a](https://www.github.com/rsenden/release-please-test/commit/e056a6a636ca319c76409e8f1139d440e7461600))
+
 ## [1.1.0](https://www.github.com/rsenden/release-please-test/compare/v1.0.0...v1.1.0) (2021-03-11)
 
 
